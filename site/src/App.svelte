@@ -46,11 +46,14 @@
 		</ul>
 		<p>i'm most active on <a href='https://twitter.com/gucaslelfond'>twitter</a> and most reachable by 
 			<a href='mailto:lucas_gelfond@brown.edu'>email</a>&mdash;please say hi! you can also find me on 
-			<a href='https://www.instagram.com/gucaslelfond/'>instagram</a>, 
+			<a href="https://www.are.na/lucas-gelfond">are.na</a>,
+			<a href='https://github.com/lucasgelfond'>github</a>,
 			<a href='https://www.goodreads.com/user/show/127129067-lucas-gelfond'>goodreads</a>,
-			 <a href="https://www.are.na/lucas-gelfond">are.na</a>, 
-			 <a href='https://letterboxd.com/lucasgelfond/'>letterboxd</a>, and 
-			 <a href='https://www.last.fm/user/lucasgelfond'>last.fm.</a> </p>
+			<a href='https://www.instagram.com/gucaslelfond/'>instagram</a>, 
+			<a href='https://www.last.fm/user/lucasgelfond'>last.fm,</a> and
+			 
+			 <a href='https://letterboxd.com/lucasgelfond/'>letterboxd</a>.
+			</p>
 			you can find my resume 
 			<a href='https://drive.google.com/file/d/1EuHesev-sfOmbGl1GwC5G3lskPgofYXn/view?usp=sharing'>here</a>
 			and my linkedin <a href='https://linkedin.com/in/lucasgelfond'>here</a>
