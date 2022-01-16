@@ -1,8 +1,14 @@
-<script>
+<script lang='ts'>
+	import { Col, Container, Row } from 'sveltestrap';
 </script>
 
 <main>
+	<Container>
+		<Row>
+			<Col xs={12} sm={12} md={12} lg={8}>
 	<p>
+		<br/>
+		<br/>
 		hi, i'm lucas!
 		<br>
 		currently, i:
@@ -22,7 +28,7 @@
 				and <a href='https://lucasgelfond.substack.com/'>substack</a> </li>
 			<li>study computer science and english at brown; i'm currently finishing up my second year</li>
 		</ul>
-		<p>most recently, i've</p>
+		<p>most recently, i've:</p>
 		<ul>
 			<li>built tools for better civic participation as a software engineer in the nyc department 
 				of city planning's 
@@ -39,21 +45,33 @@
 				<a href='http://theindy.org/section=Science%20&%20Technology/0'>science and tech</a> section</li>
 		</ul>
 		<p>i'm most active on <a href='https://twitter.com/gucaslelfond'>twitter</a> and most reachable by 
-			<a href='mailto:lucas_gelfond@brown.edu'>email</a>&mdash;please say hi! 
-			
-			<br/> <br/>you can also find me on 
+			<a href='mailto:lucas_gelfond@brown.edu'>email</a>&mdash;please say hi! you can also find me on 
 			<a href='https://www.instagram.com/gucaslelfond/'>instagram</a>, 
 			<a href='https://www.goodreads.com/user/show/127129067-lucas-gelfond'>goodreads</a>,
 			 <a href="https://www.are.na/lucas-gelfond">are.na</a>, 
 			 <a href='https://letterboxd.com/lucasgelfond/'>letterboxd</a>, and 
 			 <a href='https://www.last.fm/user/lucasgelfond'>last.fm.</a> </p>
+			you can find my resume 
+			<a href='https://drive.google.com/file/d/1EuHesev-sfOmbGl1GwC5G3lskPgofYXn/view?usp=sharing'>here</a>
+			and my linkedin <a href='https://linkedin.com/in/lucasgelfond'>here</a>
+			</Col>
+		</Row>
+	</Container>
 </main>
 
 <style>
 	main {
 		text-align: left;
 		padding: 1em;
-		margin: 0 auto;
+	}
+	p {
+		font-family: 'Helvetica', sans-serif
+	}
+	a {
+		color: #586990;
+	}
+	a:hover {
+		color:#041E42
 	}
 
 </style>
