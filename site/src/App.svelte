@@ -26,7 +26,7 @@
 				(with my friend <a href='https://twitter.com/zhaovan8'>ivan</a>!), a cohort-based book club 
 				and writing workshop for 40 undergrads interested in themes of technology, humanity, and power 
 			</li>
-			<li>write about art, the internet, and technology &mdash; my writing has appeared in 
+			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
 				<a href='https://reboothq.substack.com/p/cbpp'>reboot</a>, 
