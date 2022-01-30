@@ -1,3 +1,10 @@
+<svelte:head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+</svelte:head>
+
 <script lang='ts'>
 	import { Col, Container, Row } from 'sveltestrap';
 </script>
@@ -19,7 +26,7 @@
 				(with my friend <a href='https://twitter.com/zhaovan8'>ivan</a>!), a cohort-based book club 
 				and writing workshop for 40 undergrads interested in themes of technology, humanity, and power 
 			</li>
-			<li>write about art, the internet, and technology&mdash;my writing has appeared in 
+			<li>write about art, the internet, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
 				<a href='https://reboothq.substack.com/p/cbpp'>reboot</a>, 
@@ -38,14 +45,13 @@
 						coding it forward</a>)</li>
 			<li>taught in brown's <a href='http://ethics.cs.brown.edu/'>socially responsible computing</a> 
 				initiative, most recently for our largest intro class 
-				(<a href='https://cs.brown.edu/courses/cs015/'>CS15</a>), taught by professor andy van dam. 
-				you can see some of my lectures <a href=''>here</a>. </li>
+				(<a href='https://cs.brown.edu/courses/cs015/'>CS15</a>), taught by professor andy van dam. </li>
 			<li>edited pieces for <a href='https://www.kernelmag.io/'>kernel magazine</a> and led 
 				editorial for the college hill independent's 
 				<a href='http://theindy.org/section=Science%20&%20Technology/0'>science and tech</a> section</li>
 		</ul>
 		<p>i'm most active on <a href='https://twitter.com/gucaslelfond'>twitter</a> and most reachable by 
-			<a href='mailto:lucas_gelfond@brown.edu'>email</a>&mdash;please say hi! you can also find me on 
+			<a href='mailto:lucas_gelfond@brown.edu'>email</a> &mdash; please say hi! you can also find me on 
 			<a href="https://www.are.na/lucas-gelfond">are.na</a>,
 			<a href='https://github.com/lucasgelfond'>github</a>,
 			<a href='https://www.goodreads.com/user/show/127129067-lucas-gelfond'>goodreads</a>,
@@ -66,9 +72,7 @@
 	main {
 		text-align: left;
 		padding: 1em;
-	}
-	p {
-		font-family: 'Helvetica', sans-serif
+		font-family: 'IBM Plex Mono', monospace
 	}
 	a {
 		color: #586990;
