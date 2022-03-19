@@ -35,6 +35,7 @@
 				and <a href='https://lucasgelfond.substack.com/'>substack</a> </li>
 			<li>study computer science and english at brown; i'm currently finishing up my second year</li>
 		</ul>
+		<p>this summer i'll be a software engineering intern at <a href='https://substack.com/'>substack</a>, a publishing platform for writers</p>
 		<p>most recently, i've:</p>
 		<ul>
 			<li>built tools for better civic participation as a software engineer in the nyc department 
@@ -49,7 +50,7 @@
 			<li>edited pieces for <a href='https://www.kernelmag.io/'>kernel magazine</a> and led 
 				editorial for the college hill independent's 
 				<a href='http://theindy.org/section=Science%20&%20Technology/0'>science and tech</a> section</li>
-		</ul>
+				</ul>
 		<p>i'm most active on <a href='https://twitter.com/gucaslelfond'>twitter</a> and most reachable by 
 			<a href='mailto:lucas_gelfond@brown.edu'>email</a> &mdash; please say hi! you can also find me on 
 			<a href="https://www.are.na/lucas-gelfond">are.na</a>,
@@ -61,7 +62,7 @@
 			 <a href='https://letterboxd.com/lucasgelfond/'>letterboxd</a>.
 			</p>
 			you can find my resume 
-			<a href='https://drive.google.com/file/d/1EuHesev-sfOmbGl1GwC5G3lskPgofYXn/view?usp=sharing'>here</a>
+			<a href='https://drive.google.com/file/d/122ZokkgYKQ5gLAfpNIYAqysXP0fQoffa/view?usp=sharing'>here</a>
 			and my linkedin <a href='https://linkedin.com/in/lucasgelfond'>here</a>
 			</Col>
 		</Row>
