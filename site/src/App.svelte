@@ -30,6 +30,7 @@
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
 				<a href='https://reboothq.substack.com/p/cbpp'>reboot</a>, 
+				<a href='https://dirt.substack.com/p/dirt-bereal'>dirt</a>,
 				and <a href='http://theindy.org/search?query=lucas%20gelfond'>the college hill independent</a>. 
 				you can also find me on <a href='https://lucas.mirror.xyz/'>mirror</a> 
 				and <a href='https://lucasgelfond.substack.com/'>substack</a> </li>
