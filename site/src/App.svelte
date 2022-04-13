@@ -21,11 +21,6 @@
 		currently, i:
 	</p>
 		<ul>
-			<li>
-				lead reboot's <a href='https://reboothq.substack.com/p/fellowship-22'>student fellowship</a> 
-				(with my friend <a href='https://twitter.com/zhaovan8'>ivan</a>!), a cohort-based book club 
-				and writing workshop for 40 undergrads interested in themes of technology, humanity, and power 
-			</li>
 			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
@@ -39,6 +34,11 @@
 		<p>this summer i'll be a software engineering intern at <a href='https://substack.com/'>substack</a>, a publishing platform for writers</p>
 		<p>most recently, i've:</p>
 		<ul>
+				<li>
+				led reboot's <a href='https://reboothq.substack.com/p/fellowship-22'>student fellowship</a> 
+				(with my friend <a href='https://twitter.com/zhaovan8'>ivan</a>!), a cohort-based book club 
+				and writing workshop for 40 undergrads interested in themes of technology, humanity, and power 
+			</li>
 			<li>built tools for better civic participation as a software engineer in the nyc department 
 				of city planning's 
 				<a href='https://www1.nyc.gov/site/planning/planning-level/urban-design/urban-design-overview.page'>
