@@ -21,8 +21,8 @@
 		currently, i:
 	</p>
 		<ul>
-		<li>am based in providence, ri, finishing up my second year at brown studying cs and english</li>
-		<li>work on <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a> an (irregular) newsletter/interview series about how people and publications shape public discourse and culture </li>
+		<li>am based in providence, ri, finishing up my second year at brown, studying cs and english</li>
+		<li>work on <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a>, an (irregular) newsletter/interview series about how people and publications shape public discourse and culture </li>
 			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
