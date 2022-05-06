@@ -21,7 +21,7 @@
 		currently, i:
 	</p>
 		<ul>
-		<li>am based in providence, ri, finishing up my second year at brown concentrating in computer science and english</li>
+		<li>live in providence, ri and study computer science and english at brown</li>
 		<li>work on <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a>, an (irregular) newsletter/interview series about how people and publications shape public discourse and culture </li>
 			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
