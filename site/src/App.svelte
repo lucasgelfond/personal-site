@@ -21,6 +21,8 @@
 		currently, i:
 	</p>
 		<ul>
+		<li>am based in providence, ri, finishing up my second year at brown studying cs and english</li>
+		<li>work on <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a> an (irregular) newsletter/interview series about how people and publications shape public discourse and culture </li>
 			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
 				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
 				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
@@ -29,10 +31,9 @@
 				and <a href='http://theindy.org/search?query=lucas%20gelfond'>the college hill independent</a>. 
 				you can also find me on <a href='https://lucas.mirror.xyz/'>mirror</a> 
 				and <a href='https://lucasgelfond.substack.com/'>substack</a> </li>
-			<li>study computer science and english at brown; i'm currently finishing up my second year</li>
 		</ul>
 		<p>this summer i'll be a software engineering intern at <a href='https://substack.com/'>substack</a>, a publishing platform for writers</p>
-		<p>most recently, i've:</p>
+		<p>most recently, i:</p>
 		<ul>
 				<li>
 				led reboot's <a href='https://reboothq.substack.com/p/fellowship-22'>student fellowship</a> 
