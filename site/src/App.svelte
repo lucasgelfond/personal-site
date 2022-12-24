@@ -21,24 +21,16 @@
 		currently, i:
 	</p>
 		<ul>
-		<li>live in san francisco! and am a software engineer intern on <a href='https://substack.com/'>substack</a>'s growth team. i also</li>
-		<li>write/publish <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a>, an (irregular) newsletter/interview series about how people and publications shape public discourse and culture </li>
-			<li>write about the internet, art, and technology &mdash; my writing has appeared in 
-				<a href='https://www.vice.com/en/contributor/lucas-gelfond'>vice</a>, 
-				<a href='https://logicmag.io/kids/gay-in-a-tiktok-way/'>logic</a>, 
-				<a href='https://reboothq.substack.com/p/cbpp'>reboot</a>, 
-				<a href='https://dirt.substack.com/p/dirt-bereal'>dirt</a>,
-				and <a href='http://theindy.org/search?query=lucas%20gelfond'>the college hill independent</a>. 
-				you can also find me on <a href='https://lucas.mirror.xyz/'>mirror</a> 
-				and <a href='https://lucasgelfond.substack.com/'>substack</a> </li>
-		</ul>
-		<p>in the past, i've:</p>
-		<ul>
-				<li>
-				led reboot's <a href='https://reboothq.substack.com/p/fellowship-22'>student fellowship</a> 
+		<li>live in <a href="https://www.youtube.com/watch?v=HNo5dCbKy0g">providence, ri</a>, where i study computer science and english at brown. i also</li>
+		<li> co-lead reboot's <a href='https://reboothq.substack.com/p/fellowship-22'>student fellowship</a> 
 				(with my friend <a href='https://twitter.com/zhaovan8'>ivan</a>!), a cohort-based book club 
 				and writing workshop for 40 undergrads interested in themes of technology, humanity, and power 
-			</li>
+		</li>
+		<li> write about the internet, art, and technology, most recently for <a href="https://www.vice.com/en/contributor/lucas-gelfond">vice</a> and <a href="https://www.kernelmag.io/2/prison-phones-profits">kernel magazine</a>. read more about my writing <a href="http://lucasgelfond.online/writing">here</a>, or subscribe to my substack, <a href="https://www.zinemun.ch/p/yum?s=w">ZINE MUNCH</a>
+		</ul>
+		<p>in the past, i:</p>
+		<ul>
+			<li>shipped a bunch of A/B tests and support for <a href="https://twitter.com/gucaslelfond/status/1605338226314870784">LaTeX</a> as an engineering intern on Substack's growth product team</li>
 			<li>built tools for better civic participation as a software engineer in the nyc department 
 				of city planning's 
 				<a href='https://www1.nyc.gov/site/planning/planning-level/urban-design/urban-design-overview.page'>
@@ -62,9 +54,7 @@
 			 
 			 <a href='https://letterboxd.com/lucasgelfond/'>letterboxd</a>.
 			</p>
-			you can find my resume 
-			<a href='https://drive.google.com/file/d/122ZokkgYKQ5gLAfpNIYAqysXP0fQoffa/view?usp=sharing'>here</a>
-			and my linkedin <a href='https://linkedin.com/in/lucasgelfond'>here</a>
+			for professional and professional-adjacent things, find me on <a href='https://linkedin.com/in/lucasgelfond'>linkedin</a> or read my <a href="https://drive.google.com/file/d/1OvSaSscmB_y61UQUpiiAd5RxxQYdXHB6/view?usp=sharing">resume </a>
 			</Col>
 		</Row>
 	</Container>
